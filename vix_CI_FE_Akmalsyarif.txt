@@ -1,0 +1,14 @@
+Nama Peserta: [Akmal syarif]
+Program: VIX Core Initiative - Frontend Engineer
+Final Task: Ecommerce Catalog
+
+Repository:
+https://github.com/akmalsya/ecommerce-catalog.git
+
+Catatan:
+- Project menggunakan Vue.js 2
+- Styling menggunakan Vanilla CSS
+- API menggunakan FakeStoreAPI
+- Index produk otomatis loop 1–20
+- Kategori men's/women's clothing → tampil UI sesuai tema
+- Kategori lain → halaman unavailable
